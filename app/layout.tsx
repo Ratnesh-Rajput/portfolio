@@ -11,11 +11,11 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-  title: "Victor Williams — Frontend Engineer",
+  title: "Ratnesh Singh Rajput — Software Development Engineer",
   description:
-    "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+    "Full-Stack Developer and Product Designer. Focused on interfaces and experiences, working remotely from Bhopal(M.P.), India.",
   generator: "Next.js",
-  applicationName: "Victor Williams",
+  applicationName: "Ratnesh Singh Rajput",
   keywords: [
     "freelance",
     "developer",
@@ -37,17 +37,17 @@ export const metadata: Metadata = {
   ],
   colorScheme: "dark",
   openGraph: {
-    title: "Victor Williams — Frontend Engineer",
+    title: "Ratnesh Singh Rajput — Software Development Engineer",
     description:
-      "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    url: "https://www.victorwilliams.me/",
-    siteName: "www.victorwilliams.me",
+      "Full-Stack Developer and Product Designer. Focused on interfaces and experiences, working remotely from Bhopal(M.P.), India.",
+    url: "https://ratnesh-portfolio-three.vercel.app/",
+    siteName: "ratnesh-portfolio-three.vercel.app",
     images: [
       {
-        url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+        url: "",
         width: 1200,
         height: 630,
-        alt: "Victor Williams — Frontend Engineer",
+        alt: "Ratnesh Singh Rajput — Software Development Engineer",
       },
     ],
     locale: "en-US",
@@ -55,13 +55,12 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Victor Williams — Frontend Engineer",
+    title: "Ratnesh Singh Rajput — Software Development Engineer",
     description:
-      "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    creator: "victorwill__",
-    creatorId: "1243720976552144897",
+      "Full-Stack Developer and Product Designer. Focused on interfaces and experiences, working remotely from Bhopal(M.P.), India",
+    
     images: [
-      "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+      "",
     ],
   },
   robots: {
