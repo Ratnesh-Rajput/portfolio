@@ -72,7 +72,7 @@ const Contact = () => {
               />
             </Link>
             <Link
-              href="www.linkedin.com/in/ratnesh-singh-rajput"
+              href="https://www.linkedin.com/in/ratnesh-singh-rajput/"
               target="_blank"
               aria-label="View LinkedIn Profile"
             >

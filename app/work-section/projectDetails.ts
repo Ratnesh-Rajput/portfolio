@@ -18,7 +18,7 @@ export const devProjects = [
     technologies: ["MERN", "IOT", "Tensorflow"],
     github: "https://github.com/Ratnesh-Rajput/hackbyte_FarmCare",
     demo: "https://farmcare.netlify.app/",
-    image: require(".//../../public/projects/synthetix-flip.png"),
+    image: require(".//../../public/projects/Farmcare.png"),
     available: true,
   },
   {
@@ -29,7 +29,7 @@ export const devProjects = [
     technologies: ["MERN", "Python", "Docker"],
     github: "https://github.com/Ratnesh-Rajput/AIXcessibility",
     demo: "https://aixcessibility.netlify.app/",
-    image: require(".//../../public/projects/propellent-new.png"),
+    image: require(".//../../public/projects/Aixcessibility.png"),
     available: true,
   },
   {
@@ -51,7 +51,7 @@ export const devProjects = [
     technologies: ["React", "CSS", "Tailwind"],
     github: "https://github.com/Ratnesh-Rajput/Shoestopper",
     demo: "https://shoestopper7.netlify.app/",
-    image: require(".//../../public/projects/skywatch-new.webp"),
+    image: require(".//../../public/projects/shoestopper.png"),
     available: true,
   },
  

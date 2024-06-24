@@ -53,12 +53,12 @@ This project is open source, and you are welcome to use the code or parts of the
 
 If you are using the site’s design largely unmodified, please credit me as the designer of the website.
 
-Incase you have any questions or concerns, please feel free to reach out to me on [LinkedIn.](www.linkedin.com/in/ratnesh-singh-rajput) I am always happy to help!
+Incase you have any questions or concerns, please feel free to reach out to me on [LinkedIn.](https://www.linkedin.com/in/ratnesh-singh-rajput/) I am always happy to help!
 
 
 ## Feedback
 
-While I would not be accepting contributions or pull requests at this time, I appreciate your feedback on this project. If you have any suggestions or questions, please don’t hesitate to reach out to me on [LinkedIN.](www.linkedin.com/in/ratnesh-singh-rajput) Your feedback is valuable and will help me improve.
+While I would not be accepting contributions or pull requests at this time, I appreciate your feedback on this project. If you have any suggestions or questions, please don’t hesitate to reach out to me on [LinkedIN.](https://www.linkedin.com/in/ratnesh-singh-rajput/) Your feedback is valuable and will help me improve.
 
 ## License
 
