@@ -23,13 +23,13 @@ export const devProjects = [
   },
   {
     id: 1,
-    name: "AIXcessibility",
+    name: "Crypto Info API",
     description:
-      "making the digital world more inclusive and accessible to everyone.",
-    technologies: ["MERN", "Python", "Docker"],
+      " A fully documented API with Search and Access functionality which serves informational content for a wide variety of decentralized blockchains /cryptocurrencies and smart contract platforms in JSON format.",
+    technologies: ["MERN", "API", "Docker"],
     github: "https://github.com/Ratnesh-Rajput/AIXcessibility",
-    demo: "https://aixcessibility.netlify.app/",
-    image: require(".//../../public/projects/Aixcessibility.png"),
+    demo: "https://crypto-info-api-v2.vercel.app/",
+    image: require(".//../../public/projects/crypto-info.png"),
     available: true,
   },
   {
