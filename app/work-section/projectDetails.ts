@@ -27,7 +27,7 @@ export const devProjects = [
     description:
       " A fully documented API with Search and Access functionality which serves informational content for a wide variety of decentralized blockchains /cryptocurrencies and smart contract platforms in JSON format.",
     technologies: ["MERN", "API", "Docker"],
-    github: "https://github.com/Ratnesh-Rajput/AIXcessibility",
+    github: "https://github.com/Ratnesh-Rajput/crypto-info-api-v2",
     demo: "https://crypto-info-api-v2.vercel.app/",
     image: require(".//../../public/projects/crypto-info.png"),
     available: true,
